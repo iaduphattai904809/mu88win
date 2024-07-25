@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+MU88 – mu88.vin - Trang Chủ Cá Cược Uy Tín Cung Cấp Dịch Vụ Hàng Đầu
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`MU88 <https://mu88.vin/>`_ nhà cái uy tín chất lượng sở hữu số lượng người tham gia cực kỳ đông đảo. MU88 được nhiều người đam mê cá cược tin dùng, nổi bật với chất lượng dịch vụ và sự uy tín. Thành lập từ năm 2012 và đặt trụ sở tại Philippines, MU88 được cấp phép hoạt động bởi chính phủ và chứng nhận bởi tổ chức PAGCOR. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+MU88 cung cấp đa dạng sản phẩm giải trí như Casino, thể thao, bắn cá, nổ hũ, và xổ số, đáp ứng nhu cầu của người chơi. MU88 tự hào với giao diện đẳng cấp, hệ thống bảo mật hiện đại, và dịch vụ chăm sóc khách hàng 24/7. Đặc biệt, MU88 mang đến nhiều chương trình khuyến mãi hấp dẫn như sự kiện chào đón tân thủ, tri ân người chơi trung thành, và hoàn trả không giới hạn. Hội viên của MU88 dễ dàng tiếp cận và tham gia cá cược nhanh chóng thông qua app hỗ trợ riêng, đảm bảo trải nghiệm mượt mà và an toàn.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Website: https://mu88.vin/
 
-Contents
---------
+SĐT: 0943457350
 
-.. toctree::
+Email: mu88.win@gmail.com
 
-   usage
-   api
+Địa chỉ:2 Đ, Lê Đức Thọ, Mỹ Đình, Nam Từ Liêm, Hà Nội
+
+#mu88 #mu88win #mu88bet #casinomu88# nhacaimu88#bancamu88# xosomu88#thethaomu88
